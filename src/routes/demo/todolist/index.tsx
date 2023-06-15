@@ -1,5 +1,4 @@
-import { useSignal, useVisibleTask$ } from '@builder.io/qwik';
-import { component$ } from '@builder.io/qwik';
+import { useSignal, useVisibleTask$, component$ } from '@builder.io/qwik';
 import {
   type DocumentHead,
   routeLoader$,
